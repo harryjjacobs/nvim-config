@@ -38,6 +38,8 @@ find a file: `<leader> ff`
 
 `<leader> e` focuses the file explorer if it's open
 
+### git
+`:Flog` to open a gitgraph. Then `a` to view all branches
 
 ### misc
 
